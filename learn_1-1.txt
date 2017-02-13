@@ -1,0 +1,18 @@
+1 cmd/terminal
+dir/ls
+cd
+mkdir
+ipconfig/ifconfig
+rmdir/rm
+copy
+move
+exit
+
+2 git 
+git init
+git clone
+
+git add
+git commit
+git push
+git pull
