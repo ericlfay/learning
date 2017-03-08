@@ -3,4 +3,4 @@ godady.com
 vultr.com
 mlab.com
 redislabs.com
-
+freenom.com
