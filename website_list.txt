@@ -8,3 +8,4 @@ startbootstrap.com
 pythonanywhere.com
 heroku.com
 elephantsql.com
+jquery.vostrel.cz/reel   #360 旋转jQuery
