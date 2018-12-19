@@ -9,3 +9,4 @@ pythonanywhere.com
 heroku.com
 elephantsql.com
 jquery.vostrel.cz/reel   #360 旋转jQuery
+wiki.woodpecker.org.cn/moin/WxPythonInAction #wxpython 中文文档
